@@ -1,0 +1,4 @@
+{
+    "skincare_concern_url": "https://www.lookfantastic.com/c/health-beauty/face/blocked-pores-dead-skin/",
+    "max_page_number": 41
+}
